@@ -20,3 +20,5 @@ We are to design this BLOG-LANDING PAGE , Issues will be assigned to every membe
 **push to your branch**
 
 **make a pull request to dev**
+
+**put a screenshot of your design on other screen sizes at the comment section**
