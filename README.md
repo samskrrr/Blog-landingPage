@@ -11,7 +11,7 @@ We are to design this BLOG-LANDING PAGE , Issues will be assigned to every membe
 
 # How to contirbute
 
-**git clone (url of our repo)**
+
 
 **create a new branch with your name and switch to it**
 
