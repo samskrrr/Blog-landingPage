@@ -11,11 +11,11 @@ We are to design this BLOG-LANDING PAGE , Issues will be assigned to every membe
 
 # How to contirbute
 
-**git clone (url of our repo)**
+
 
 **create a new branch with your name and switch to it**
 
-**Add your project folder to that branch**
+**work on your branch and create a remote branch**
 
 **push to your branch**
 
