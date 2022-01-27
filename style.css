@@ -1,0 +1,22 @@
+.blogFooter{
+    background-color:hsl(240, 10%, 16%);
+    border-top-right-radius: 5rem;
+    line-height: 2;
+    font-family: 'Ubuntu', sans-serif;
+   
+}
+
+.logo{
+    width:6rem; 
+ 
+   
+}
+
+
+ul li a{
+    color:hsl(240, 2%, 79%);
+}
+ul h6{
+    color: white;
+    font-weight: 700;
+}
