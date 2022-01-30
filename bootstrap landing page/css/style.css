@@ -1,0 +1,65 @@
+* {
+	font-family: 'Overpass', sans-serif;
+}
+
+p {
+	color: hsl(207, 13%, 34%);
+}
+
+img {
+	/*overflow: hidden;*/
+	/*width: auto;*/
+	/*height: 70%;*/
+}
+
+.container-fluid {
+	padding: 0px;
+	border: 2px solid black;
+	/*text-align: center;*/
+}
+
+.cardone {
+	color: hsl(0, 0%, 100%);
+	border-top-right-radius: 7rem;
+	border-bottom-left-radius: 7rem;
+	background-color: hsl(237, 24%, 25%);
+	/*border: 2px solid black;*/
+	margin-top: 10rem;
+	padding: 1.6rem;
+	overflow: hidden;
+}
+
+.cardtwo {
+	color: hsl(208, 49%, 26%);
+	border: 2px solid black;
+	margin-top: 15rem;
+	padding: 1rem;
+	overflow: hidden;
+}
+
+.border {
+	/*height: 30rem;*/
+}
+.col {
+	border: 2px solid red;
+}
+.state {
+	color: #dbdee1;
+}
+.desktop {
+	margin-left: -19rem;
+}
+.bg {
+	margin-top: -34rem;
+	margin-left: -15.2rem;
+	/*width: 100%;*/
+}
+.phone {
+	overflow: visible;
+	margin-top: -35.5rem;
+	width: 100%;
+	/*margin-top: auto;*/
+}
+.laptop {
+	width: 100%;
+}
