@@ -24,3 +24,5 @@ We are to design this BLOG-LANDING PAGE , Issues will be assigned to every membe
 **make a pull request to dev**
 
 **put a screenshot of your design on other screen sizes at the comment section**
+
+**Team Leader: MaxLevelNoob#6684. Role: Design of State of the Art Section.**
